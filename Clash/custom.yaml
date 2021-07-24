@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-SUFFIX,openwrt.org
+  - DOMAIN-SUFFIX,kernel.org
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,v2ex.com

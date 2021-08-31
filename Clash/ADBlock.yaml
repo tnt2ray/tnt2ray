@@ -9,3 +9,5 @@ payload:
   - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,wsskj520.cn
   - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,sdk.e.qq.com
